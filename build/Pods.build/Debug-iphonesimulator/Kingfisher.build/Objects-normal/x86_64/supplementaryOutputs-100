@@ -1,0 +1,24 @@
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Image/GIFAnimatedImage.swift":
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.o"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.dia"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.d"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GIFAnimatedImage.swiftdeps"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Image/GraphicsContext.swift":
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.d"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.swiftdeps"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/GraphicsContext.dia"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Image/Image.swift":
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.swiftconstvalues"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.dia"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.swiftdeps"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.o"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Image.d"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift":
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.d"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.o"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.dia"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.swiftconstvalues"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/FormatIndicatedCacheSerializer.swiftdeps"

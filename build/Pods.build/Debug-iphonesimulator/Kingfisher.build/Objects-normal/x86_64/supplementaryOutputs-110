@@ -1,0 +1,24 @@
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Networking/RetryStrategy.swift":
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.dia"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.o"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.d"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.swiftdeps"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.swiftconstvalues"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Utility/Runtime.swift":
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.dia"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.d"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.swiftdeps"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Networking/SessionDataTask.swift":
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.swiftdeps"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.o"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.dia"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.d"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Networking/SessionDelegate.swift":
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.d"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.swiftdeps"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.dia"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.swiftconstvalues"

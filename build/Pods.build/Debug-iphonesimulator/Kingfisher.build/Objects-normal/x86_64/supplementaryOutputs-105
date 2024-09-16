@@ -1,0 +1,24 @@
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift":
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.o"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.swiftconstvalues"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.swiftdeps"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.d"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFAnimatedImage.dia"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/General/KF.swift":
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.d"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.o"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.swiftconstvalues"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.dia"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KF.swiftdeps"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/SwiftUI/KFImage.swift":
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.swiftconstvalues"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.d"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.swiftdeps"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImage.dia"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/SwiftUI/KFImageOptions.swift":
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.o"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.dia"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.d"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KFImageOptions.swiftdeps"

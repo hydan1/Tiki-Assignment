@@ -1,0 +1,24 @@
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Networking/RedirectHandler.swift":
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.d"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.swiftdeps"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.dia"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.swiftconstvalues"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Networking/RequestModifier.swift":
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.o"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.dia"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.d"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.swiftdeps"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/General/ImageSource/Resource.swift":
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.swiftdeps"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.dia"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.d"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Utility/Result.swift":
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.swiftdeps"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.d"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.dia"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.swiftconstvalues"

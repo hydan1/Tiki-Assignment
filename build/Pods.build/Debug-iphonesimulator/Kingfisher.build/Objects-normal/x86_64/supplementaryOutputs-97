@@ -1,0 +1,24 @@
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift":
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AuthenticationChallengeResponsable.dia"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AuthenticationChallengeResponsable.d"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AuthenticationChallengeResponsable.swiftconstvalues"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AuthenticationChallengeResponsable.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AuthenticationChallengeResponsable.swiftdeps"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Utility/Box.swift":
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Box.swiftconstvalues"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Box.swiftdeps"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Box.dia"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Box.o"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Box.d"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift":
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AVAssetImageDataProvider.swiftdeps"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AVAssetImageDataProvider.swiftconstvalues"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AVAssetImageDataProvider.d"
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AVAssetImageDataProvider.dia"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AVAssetImageDataProvider.o"
+"/Users/mac/Documents/Projects/IOS/Tiki_Test/Pods/Kingfisher/Sources/Views/AnimatedImageView.swift":
+  diagnostics: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AnimatedImageView.dia"
+  object: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AnimatedImageView.o"
+  swift-dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AnimatedImageView.swiftdeps"
+  const-values: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AnimatedImageView.swiftconstvalues"
+  dependencies: "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/AnimatedImageView.d"

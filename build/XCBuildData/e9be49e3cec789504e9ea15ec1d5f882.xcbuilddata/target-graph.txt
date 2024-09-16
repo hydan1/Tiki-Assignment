@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'Tiki_Test' in project 'Tiki_Test'
+➜ Implicit dependency on target 'Pods-Tiki_Test' in project 'Pods' via file 'Pods_Tiki_Test.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Kingfisher' in project 'Pods' via options '-framework Kingfisher' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-Tiki_Test' in project 'Pods'
+➜ Explicit dependency on target 'Kingfisher' in project 'Pods'
+Target 'Kingfisher' in project 'Pods'
+➜ Explicit dependency on target 'Kingfisher-Kingfisher' in project 'Pods'
+Target 'Kingfisher-Kingfisher' in project 'Pods' (no dependencies)

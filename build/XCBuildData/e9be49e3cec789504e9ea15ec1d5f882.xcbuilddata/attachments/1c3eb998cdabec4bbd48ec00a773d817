@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Kingfisher-Swift.h",
+      'external-contents': "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Pods.build/Debug-iphonesimulator/Kingfisher.build/unextended-interface-header.h",
+    }]
+    }]
+}

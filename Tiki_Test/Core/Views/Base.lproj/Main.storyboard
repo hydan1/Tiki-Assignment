@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Nvn-bi-dUl">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Hot Keys View Controller-->
+        <scene sceneID="H8L-BV-D3E">
+            <objects>
+                <viewController storyboardIdentifier="HotKeysViewController" id="Nvn-bi-dUl" customClass="HotKeysViewController" customModule="Tiki_Test" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="eEa-QU-LeF">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="Kh6-h8-KSd">
+                                <rect key="frame" x="0.0" y="111.66666666666669" width="393" height="260"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="260" id="3Lg-H3-peU"/>
+                                </constraints>
+                                <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="aUj-mC-VWM">
+                                    <size key="itemSize" width="128" height="128"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells/>
+                            </collectionView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Từ Khoá Hot" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H5T-Fc-C47">
+                                <rect key="frame" x="16" y="67" width="361" height="28.666666666666671"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="24"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="qeV-0F-4Oj"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Kh6-h8-KSd" firstAttribute="leading" secondItem="qeV-0F-4Oj" secondAttribute="leading" id="0Zp-v5-TRo"/>
+                            <constraint firstItem="H5T-Fc-C47" firstAttribute="leading" secondItem="qeV-0F-4Oj" secondAttribute="leading" constant="16" id="FIY-Tj-UaK"/>
+                            <constraint firstItem="qeV-0F-4Oj" firstAttribute="trailing" secondItem="H5T-Fc-C47" secondAttribute="trailing" constant="16" id="X14-rm-Irv"/>
+                            <constraint firstItem="Kh6-h8-KSd" firstAttribute="top" secondItem="H5T-Fc-C47" secondAttribute="bottom" constant="16" id="ffk-5S-QHN"/>
+                            <constraint firstItem="qeV-0F-4Oj" firstAttribute="trailing" secondItem="Kh6-h8-KSd" secondAttribute="trailing" id="sLN-M9-1vF"/>
+                            <constraint firstItem="H5T-Fc-C47" firstAttribute="top" secondItem="qeV-0F-4Oj" secondAttribute="top" constant="8" id="vSC-KA-TBw"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="collectionView" destination="Kh6-h8-KSd" id="Jmh-Gb-PS5"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nRv-fH-SU4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-378" y="-314"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

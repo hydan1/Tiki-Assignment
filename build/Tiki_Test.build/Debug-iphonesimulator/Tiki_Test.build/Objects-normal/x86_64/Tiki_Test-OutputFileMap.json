@@ -1,0 +1,198 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Tiki_Test-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Tiki_Test-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Tiki_Test-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Tiki_Test-master.swiftdeps"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Core/Models/Data.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/Data~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Core/Models/HotKey.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKey~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Core/Models/HotKeyResponse.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyResponse~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Core/ViewModels/HotKeysViewModel.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewModel~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Core/Views/Cells/HeaderView.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HeaderView~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Core/Views/Cells/HotKeyCell.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyCell~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Core/Views/HotKeysViewController.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeysViewController~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Extension/String+Ex.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/String+Ex~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Extension/UIColor+Ex.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIColor+Ex~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Extension/UIImageView+Ex.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/UIImageView+Ex~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Networking/API.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/API~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Networking/HTTPMethod.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HTTPMethod~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Networking/NetworkManager.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/NetworkManager~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Networking/TargetType+Task+ParameterEncoding.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/TargetType+Task+ParameterEncoding~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/SupportFiles/AppDelegate.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/SupportFiles/SceneDelegate.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Tests/HotKeyViewModelTests.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/HotKeyViewModelTests~partial.swiftmodule"
+  },
+  "/Users/mac/Documents/Projects/IOS/Tiki_Test/Tiki_Test/Tests/MockNetworkManager.swift" : {
+    "const-values" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager.d",
+    "diagnostics" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager.dia",
+    "index-unit-output-path" : "/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager.o",
+    "llvm-bc" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager.bc",
+    "object" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager.o",
+    "swift-dependencies" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/mac/Documents/Projects/IOS/Tiki_Test/build/Tiki_Test.build/Debug-iphonesimulator/Tiki_Test.build/Objects-normal/x86_64/MockNetworkManager~partial.swiftmodule"
+  }
+}
